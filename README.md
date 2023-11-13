@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @shakelang-bot
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding with the [shake programming language](https://shakelang.com/) 🍹
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-shakelang-bot/shakelang-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I’m automatically optimizing projects of [@shakelang](https://github.com/shakelang/) 🤖
+- 📫 Contact me via [bot@shakelang.com](mailto:bot@shakelang.com) 📨
+- 🇺🇦 Stand with Ukraine! 🕊️
+  
