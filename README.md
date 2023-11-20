@@ -4,4 +4,7 @@
 - 💞️ I’m automatically optimizing projects of [@shakelang](https://github.com/shakelang/) 🤖
 - 📫 Contact me via [bot@shakelang.com](mailto:bot@shakelang.com) 📨
 - 🇺🇦 Stand with Ukraine! 🕊️
+
+---
   
+[![GitHub Streak](https://streak-stats.demolab.com?user=shakelang-bot&hide_border=true)](https://git.io/streak-stats)
