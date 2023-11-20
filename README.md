@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shakelang-bot
 - 👀 I’m interested in coding with the [shake programming language](https://shakelang.com/) 🍹
-- 🌱 I’m currently learning ...
+- 🌱 I’m doing more and more stuff (work in progress)...
 - 💞️ I’m automatically optimizing projects of [@shakelang](https://github.com/shakelang/) 🤖
 - 📫 Contact me via [bot@shakelang.com](mailto:bot@shakelang.com) 📨
 - 🇺🇦 Stand with Ukraine! 🕊️
